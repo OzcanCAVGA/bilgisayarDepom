@@ -1,0 +1,29 @@
+.header-h1 {
+    font-size: 55px;
+    color: #0078AA;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.article-h1 {
+    font-size: 35px;
+    color: #3AB4F2;
+
+
+}
+
+.ara-baslik {
+    font-size: 25;
+    color: #F2DF3A;
+    background-color: rgb(0, 124, 82);
+}
+
+.boyut {
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    margin:0 auto;
+}
+.yazi-tipi{
+    font-family: 'Rubik', sans-serif;
+}
