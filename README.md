@@ -1,6 +1,6 @@
 # bilgisayarDepom
 
-Bu proje (**patika.dev**)[https://www.patika.dev/tr] web sitesinin istediği bir çalışmadır. Bir bilgisayar mağazasının örnek bir web sitesini barındırır.
+Bu proje [**patika.dev**](https://www.patika.dev/tr) web sitesinin istediği bir çalışmadır. Bir bilgisayar mağazasının örnek bir web sitesini barındırır.
 
 
 # Dosyalar
